@@ -61,7 +61,7 @@
     }
 
 })(current, previous);
-=======
+
 // Business Rule que roda antes (before), feita para pegar um campo referência da tabela sys_user (caller_id), da tabela de incidentes (incident) e mudar o valor do assigned_to (referência a tabela sys_user) de acordo com cada Caller pré-definido.
 
 (function executeRule(current, previous /*null when async*/ ) { 
