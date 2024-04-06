@@ -124,4 +124,3 @@
     }
 
 })(current, previous);
->>>>>>> 0b21e6eba32e7e3fa3e3f52ef431e8644551b1b5
